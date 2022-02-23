@@ -1,0 +1,3 @@
+node3.ramanujan.shubhamtatvamasi.com {
+  reverse_proxy nginx:80
+}
